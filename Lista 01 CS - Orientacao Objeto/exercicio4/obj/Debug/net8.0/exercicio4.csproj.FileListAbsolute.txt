@@ -1,0 +1,15 @@
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\bin\Debug\net8.0\exercicio4.exe
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\bin\Debug\net8.0\exercicio4.deps.json
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\bin\Debug\net8.0\exercicio4.runtimeconfig.json
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\bin\Debug\net8.0\exercicio4.dll
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\bin\Debug\net8.0\exercicio4.pdb
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfoInputs.cache
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfo.cs
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.csproj.CoreCompileInputs.cache
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.sourcelink.json
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.dll
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\refint\exercicio4.dll
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.pdb
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
+F:\#Faculdade\3semestre\Topicos Especiais de Sistemas\CS---Listas\Lista 01 CS - Orientacao Objeto\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll

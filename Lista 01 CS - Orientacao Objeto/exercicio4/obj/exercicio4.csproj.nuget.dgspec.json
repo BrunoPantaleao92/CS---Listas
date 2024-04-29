@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio3\\exercicio3.csproj": {}
+    "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio4\\exercicio4.csproj": {}
   },
   "projects": {
-    "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio3\\exercicio3.csproj": {
+    "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio4\\exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio3\\exercicio3.csproj",
-        "projectName": "exercicio3",
-        "projectPath": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio3\\exercicio3.csproj",
+        "projectUniqueName": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio4\\exercicio4.csproj",
+        "projectName": "exercicio4",
+        "projectPath": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio4\\exercicio4.csproj",
         "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
-        "outputPath": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio3\\obj\\",
+        "outputPath": "F:\\#Faculdade\\3semestre\\Topicos Especiais de Sistemas\\CS---Listas\\Lista 01 CS - Orientacao Objeto\\exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
